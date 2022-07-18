@@ -1,0 +1,4 @@
+pragma solidity ^0.5.0;
+
+import "https://github.com/remixcompileridev2/test/blob/main/one";
+import "https://github.com/remixcompileridev2/test/blob/main/main";
